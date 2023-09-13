@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alisson Alves.
-- 🌱 Learning FrontEnd: JS, HTML5, Jqery...
+- 🌱 Learning FrontEnd: JS, HTML5, React, Jqery...
 - 📫 alissonsilabas@gmail.com
 - https://www.linkedin.com/in/alissonrosas/
 
