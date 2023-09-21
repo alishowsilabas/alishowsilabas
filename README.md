@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alisson Alves.
 - 👨‍💻 Frontend Developer | HTML5 | CSS | JavaScript | React
-- 🌱 Learning: React, Jqery, Next.js and more.
+- 🌱 Learning: JavaScript, React, Next.js and more.
 - 📫 alissonsilabas@gmail.com
 - https://www.linkedin.com/in/alissonrosas/
